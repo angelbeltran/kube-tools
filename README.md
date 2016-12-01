@@ -8,7 +8,7 @@ source install.sh
 
 ## Description
 
-Provides useful kubectl sugartastic tools.
+Provides sugartastic kubectl tools.
 Appends a few aliases to you .bashrc file
 
 ```
