@@ -1,5 +1,5 @@
 if [ "$1" = "" ]; then
-  echo please prove a pod name
+  echo please provide a pod name
   exit 1
 fi
 
